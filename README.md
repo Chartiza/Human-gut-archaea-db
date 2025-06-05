@@ -8,6 +8,7 @@ Raw data processing on cluster:
 - Reads_preprocessing_RemoveLQ.sh
 - MAG_assembly.sh
 - MAG_binning.sh
+- MAG_clustering.sh
 - Taxanomic_annotation.sh
 - MAGs_quality.sh
 - Phylogenetic_analysis.sh
