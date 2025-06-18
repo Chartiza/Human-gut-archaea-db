@@ -1,6 +1,15 @@
-# PROJECT: Exploring Archaeal Diversity in Human Faecal Microbiome: 274 Draft Genomes
+# PROJECT: Human gut archaea collection from Estonian population
 
-✨ Motivation: The purpose of this project is to explore the archaeal diversity in the human gut from Metagenome Assembled Genome database from the Estonian Biobank (EstMB MAGdb).
+✨ Motivation: The aim of this project is to explore the archaeal diversity within the Estonian population. The final EstMB MAGdb Archaea-273 collection comprises 144 strains representing 21 archaeal species.
+![alt text](db.png)
+
+## Data availible for download here
+
+- Paper draft: [Download link](https://www.biorxiv.org/content/10.1101/2024.07.06.602324v1.full)
+- EstMB MAGdb Archaea-273 collection: [Download link](https://www.ebi.ac.uk/ena/browser/view/PRJEB81541)
+- Functional profiling results: [Download link](https://figshare.com/articles/dataset/Prokka_annotation/29329166)
+
+## Scriprs
 
 Raw data processing on cluster:
 
