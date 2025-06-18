@@ -26,7 +26,8 @@ Raw data processing and MAG reconstruction on cluster:
 | `parse_CoverM_results.py`           | Aggregates CoverM output into summary tables across all samples.                                                       |
 | `Functional_annotation.sh`          | Performs functional annotation of MAGs using **Prokka**.                                                               |
 
-Data analysis notebooks:
+Follow-up Analysis (Jupyter Notebooks)
 
-- Script <b>Archaea_main</b> Main analysys for the paper.
-- Script <b>Archaea_QC</b> Addtional quality checks.
+| Script Name                         | Description                                                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `Paper_figures_and_stats.ipynb`   | Generates all figures and summary statistics reported in the manuscript.                                                        |
